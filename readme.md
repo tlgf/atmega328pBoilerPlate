@@ -5,11 +5,11 @@ It is based around a tutorial by [Lukasz Cepowski](http://cepa.io/devlog/avr-gcc
 
 ## General Procedure:
 ### 0. Required Packages and Utilities
-*The `avr-gcc` compiler:
+The `avr-gcc` compiler:
 
-`$ sudo apt-get install avr-gcc`
+`$ sudo apt-get install gcc-avr`
 
-*The `avrdude` hex loading utility:
+The `avrdude` hex loading utility:
 
 `$ sudo apt-get install avrdude`
 
